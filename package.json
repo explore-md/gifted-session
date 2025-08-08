@@ -1,6 +1,6 @@
 {
   "description": "gifted-pair-code",
-  "main": "./index.js",
+  "main": "index.js",
   "type": "commonjs",
   "engines": {
     "node": ">=20.0.0"
